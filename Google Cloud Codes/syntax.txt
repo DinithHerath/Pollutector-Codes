@@ -1,0 +1,3 @@
+python cloudiot_pubsub_example_server.py --project_id=iot-pollutector --pubsub_subscription=iot-pollutector-sub --service_account_json=iot-pollutector.json
+python cloudiot_pubsub_example_mqtt_device.py --project_id=iot-pollutector --registry_id=iot-pollutector-registry --device_id=VM-heartrate --private_key_file=../.ssh/ec_private.pem
+python heartrateSimulator.py --project_id=iot-pollutector --registry_id=iot-pollutector-registry --device_id=VM-heartrate --private_key_file=../.ssh/ec_private.pem

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pollutector-pub",
+  "private_key_id": "5222d506a61dd21d050f70a5b2cfb4f016fa7275",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoqKqBk5uR2ybw\nx9lZMPfWTrHW8mRAV/u2QGO7A65+N4SlIMKzj7a9Nlq45UfK4KYCXbayBnNNXP39\nA4vrR7nTJSE4Z67s5GulARZYxI5tu9YI4nbMLD7jqfL5/qliRrFSDBLX4x+c6MF9\npWPDMQc2D2TNajtvGFFIlApRVI0YNHK4aVESKA4NaMLPLHqtcqVaIh6sYNCR7wvH\nUj2s6PFzorMS2LkjCuGmVGfsBlLdXWz636YrRF/OddeOF5rCu4nJKC9cCrsHCgGE\n9j4r2BK9h57rWGpqE6vQ5WDc6J6eQifme9zZg7qlqy0OSQUD6hyJCYr/cCLjjQ3B\n1Ue6EHIRAgMBAAECggEAGdnIUJYMST3a6RrooHgV9J4ZOgXrAcW6igOyhY6Z5zSh\nOyIbVaRYcQXsv9w8tcbbCw/MGdtNPvVa5LXvcz+KJufRALE7qYmVSjQxdaei4QTi\nWHhFlyPM+94npNO4qJyHPzkkhjyEsusmBRkdgmR4Y3vWinmW5H9IriQqtK6N9cCM\nBfy0Tn86HS9qPXGtMs+6UviIC3MOg5u2jTA22oC1khtL1H+wwMiSLZyGvY8bn3Hq\ny7uOwcvXzYqh4dFWx7VcsF4q7uJVSdyrwGoEvAGajglfLF/eKoIq7JlZis88LB7B\nU4dLZZLYek0DGRX+5JrcbO+wp9mCg01vpo4lM++0VQKBgQDriVtcr9eTBI2hLkKc\nyCLfV24mPrXwwmdZKtZSNwySK9qZOXo1QfNx2FxCb1zbAsHQ7mZ8KuqsdCJSU6rh\nzFIH82+X1GJm0iwwTG+lCwkELUo1EjU3MDmmBd4rLf5A0ALUgp9VUvPrTA1AAZX3\n1K2DLWFmunhSifjSsTkVsNb5JwKBgQC3T9xt3g62gb6tzSh+SbM9PRFst+dTjEtE\nl/qoPMJmmXCjEThBWbsUNKg9siJQnjGirw+D0/2bXIHD9itc6Itke47DSXDrYWPu\nTCE9QMI/u9jeWRklJgP8ZRr7kptjTSqEsmq2wNcq47wdrE/C4Sft//uxZLFqB/nx\nnc3ST6SOBwKBgQDYMpCGF3INJNTL6iaCusInt50HxfBDOm6azlNDy/viABb7JmMi\nl5LaIPsukAHvlixJl0rDFrGp8j++ycXE1UNGwRDhkLVyI+EjxEWGfQadquS+qiPm\nsIF5/1Da2bDT1RuD7RJLw4TZqklPQyVhAvrxuan6HZdsS/D1lG8NlfD9aQKBgQCT\n0eJ+9kIHCjkpDfdJX0UabNRQRzxTMx6/AY8ve0+ITNN3q7shd6pUcOH6Xlsth2Of\nPGvWcmxfjAlYbHorQZqmPLyy3dYg+TgMQXfMXRxHKMOJCXAtdKpiLWXE2ERVnzRa\nLUXAeWEJRPu9MeZf0BDS60mbkwc96ZC0NfxzS6X2oQKBgGioIB1KEkyNi41z0oE4\nUc64/Ny9+aiPSVoHV4TXX1IOnnguNkW10npNKgEP62+3kpld7MH3LtN0RNdQeSqu\n7zmyJGdwSjB0Q4awnNrypDzsdt603tQicrwi2T150Hd4TMl+kb+arTws6D8Lnd5A\nCFwTTCQ02S6AC3LE2nFEHThF\n-----END PRIVATE KEY-----\n",
+  "client_email": "pollutector@pollutector-pub.iam.gserviceaccount.com",
+  "client_id": "112618813891868713962",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pollutector%40pollutector-pub.iam.gserviceaccount.com"
+}

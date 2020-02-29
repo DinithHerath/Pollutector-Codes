@@ -1,0 +1,16 @@
+procedure of cloud firebase
+1. export GOOGLE_APPLICATION_CREDENTIALS="/home/dinithherath18332/pollutector-pub-c495b1099191.json"
+2. python file
+
+procedure to firebase cont
+1. export GOOGLE_APPLICATION_CREDENTIALS="/home/firebase-cont/pollutector-pub-c495b1099191.json"
+2. python file
+
+external commands:
+pip install --upgrade google-cloud-firestore
+
+chmod +x Firebase_pub_continue.py
+nohup python3 /home/dinithherath18332/Firebase_pub_continue.py &
+
+chmod +x Firebase_pub_discrete.py
+nohup python3 /home/dinithherath18332/Firebase_pub_discrete.py &

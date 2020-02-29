@@ -1,0 +1,38 @@
+cd $HOME/training-data-analyst/quests/iotlab/
+
+python3 cloudiot_mqtt_example_json.py \
+   --project_id=pollutector-pub \
+   --cloud_region=us-central1 \
+   --registry_id=pollutector-reg \
+   --device_id=temp-sensor-buenos-aires \
+   --private_key_file=rsa_private.pem \
+   --message_type=event \
+   --algorithm=RS256
+
+python3 cloudiot_mqtt_example_json.py \
+   --project_id=pollutector-pub \
+   --cloud_region=us-central1 \
+   --registry_id=pollutector-reg \
+   --device_id=temp-sensor-istanbul \
+   --private_key_file=rsa_private.pem \
+   --message_type=event \
+   --algorithm=RS256 \
+   --num_messages=200
+
+python3 Google_IoT_Broker.py \
+   --project_id=pollutector-pub \
+   --cloud_region=us-central1 \
+   --registry_id=pollutector-reg \
+   --device_id=temp-sensor-buenos-aires \
+   --private_key_file=rsa_private.pem \
+   --message_type=event \
+   --algorithm=RS256
+
+python3 Google_IoT_Broker_v1.py \
+   --project_id=pollutector-pub \
+   --cloud_region=us-central1 \
+   --registry_id=pollutector-reg \
+   --device_id=temp-sensor-buenos-aires \
+   --private_key_file=rsa_private.pem \
+   --message_type=event \
+   --algorithm=RS256
